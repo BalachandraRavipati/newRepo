@@ -1,1 +1,10 @@
 this the changes made in newBranch
+
+import Component1
+
+This is related to component1
+
+return(
+this is line1 
+this is line2
+)
