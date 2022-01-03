@@ -1,10 +1,12 @@
 this the changes made in newBranch
 
 import Component1
+import component2
 
 This is related to component1
-
+This is related to component 2
 return(
 this is line1 
+this is line1.5
 this is line2
 )
